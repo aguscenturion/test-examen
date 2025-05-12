@@ -3,6 +3,8 @@
 
 // 🔸 EJEMPLO: verificar si un usuario tiene edad suficiente para entrar a una fiesta
 
+console.log("test");
+
 let edad = 20;
 
 // ✔️ Usando IF - ELSE
